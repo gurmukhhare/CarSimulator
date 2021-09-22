@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{8F8CF197-5A63-41FB-8D41-7C91F3E422C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarSimulator/Highway.cs">
+    <Files>
+      <File FileName="README.md" Line="1" Column="1" />
+      <File FileName="CarSimulator/Car.cs" Line="10" Column="18" />
+      <File FileName="CarSimulator/Physics1D.cs" Line="1" Column="1" />
+      <File FileName="CarSimulator/Program.cs" Line="6" Column="5" />
+      <File FileName="CarSimulator/State.cs" Line="30" Column="24" />
+      <File FileName="CarSimulator/DragRace.cs" Line="43" Column="1" />
+      <File FileName="CarSimulator/EmptyClass.cs" Line="12" Column="10" />
+      <File FileName="CarSimulator/Mazda.cs" Line="15" Column="1" />
+      <File FileName="CarSimulator/Tesla.cs" Line="15" Column="1" />
+      <File FileName="CarSimulator/Herbie.cs" Line="11" Column="77" />
+      <File FileName="CarSimulator/Highway.cs" Line="31" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarSimulator" expanded="True">
+            <Node name="CarSimulator" expanded="True">
+              <Node name="Highway.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CarSimulator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
